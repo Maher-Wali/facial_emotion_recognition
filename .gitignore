@@ -1,0 +1,8 @@
+.venv/
+CR2_EmotionsFaciales.pdf
+generate_cr2.py
+
+data/ferplus/
+data/rafdb/
+data/rafdb_processed/
+data/ferplus_processed/
