@@ -6,3 +6,11 @@ data/ferplus/
 data/rafdb/
 data/rafdb_processed/
 data/ferplus_processed/
+
+CR3_EmotionsFaciales.pdf
+CR4_EmotionsFaciales.pdf
+__pycache__/
+generate_cr3.py
+generate_cr4.py
+train_kaggle.ipynb
+train.py
