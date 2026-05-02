@@ -12,5 +12,8 @@ CR4_EmotionsFaciales.pdf
 __pycache__/
 generate_cr3.py
 generate_cr4.py
+generate_final.py
+CR4+5_EmotionsFaciales.pdf
+Rapport_final_EmotionsFaciales.pdf
 train_kaggle.ipynb
 train.py
